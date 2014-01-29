@@ -10,7 +10,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "mime": "~1.2.11",
-    "read-dir-files": "~0.1.1"
+    "read-dir-files": "~0.1.1",
+    "async": "*"
   },
   "devDependencies": {
     "tape": "~2.3.2"
